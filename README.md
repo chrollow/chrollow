@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Donn
 
-## 💻 Third-year BSIT Student at TUP Taguig
+## 💻 Fourth-year BSIT Student at TUP Taguig
 
 I do what I want to do :)
 
