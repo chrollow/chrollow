@@ -2,8 +2,6 @@
 
 ## 💻 Fourth-year BSIT Student at TUP Taguig
 
-I do what I want to do :)
-
 ## 🛠️ Tech Stack
 
 <div align="center">
