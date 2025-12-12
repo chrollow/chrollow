@@ -22,7 +22,7 @@
 
 <div align="center">
   <!-- Add your social media or contact links here -->
-  <a href="mailto:donnanthonybaldoza88@gmail.com">
+  <a href="mailto:donnbaldoza2k@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </div>
