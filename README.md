@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Donn
 
-## 💻 Fourth-year BSIT Student at TUP Taguig
+## 💻 BSIT Graduate
 
 ## 🛠️ Tech Stack
 
